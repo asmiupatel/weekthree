@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
+  background-color: red;
   color: #fff;
   padding: 10px;
   position: fixed;
@@ -35,7 +35,7 @@ body {
 }
 
 .navbar ul li a {
-  color: #fff;
+  color: lightgray;
   text-decoration: none;
 }
 
